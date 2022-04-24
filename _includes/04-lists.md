@@ -1,3 +1,3 @@
-1. football
-2. reading
-3. gaming
+1. Football
+2. Reading
+3. Gaming
